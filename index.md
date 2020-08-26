@@ -1,9 +1,9 @@
 # jCloud-Day
 ![GitHub stars](https://img.shields.io/github/stars/KonfHub/jCloud-Day?style=social) ![GitHub forks](https://img.shields.io/github/forks/KonfHUb/jCloud-Day?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/KonfHub/jCloud-Day?style=social)
-## What is jCloud Day? :mega:
+## What is jCloud Day? 📣
 [jCloud Day](http://konf.me/jcloud) is a single day, virtual, developer-focussed, community driven conference on Java and Cloud. The event has been tailor-made with the objective of encouraging and helping Java developers upskill and be up-to-date on the latest Java and Cloud technologies. The event is absolutely free and open for all.
 
-### Plan of action for the day :clipboard::
+### Plan of action for the day 📋:
   - 11am-11:10am Welcome and Announcements
   - 11:15am-11:45am Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud.
     - By [Srinivasa Rao Aravalli](https://www.linkedin.com/in/aravilli/)
@@ -22,7 +22,7 @@
   - 2:55pm-3:10pm Deploy a Website to Azure using Azure Service
     - By [Arpita Srivastava](https://twitter.com/arpita_zoe)
 
-### Speaker Slides :pencil: :
+### Speaker Slides 📝:
 - Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud
 - Go Serverless with Java and Azure Functions
 - Java on Azure: Building Spring Boot
@@ -31,14 +31,14 @@
 - [Build a Java Web Application using Azure Cosmos DB and SQL API](https://drive.google.com/file/d/1troa2LPMP3apX_kW7pnAKqdiMHgId3Gr/view?usp=sharing)
 - [Deploy a Website to Azure using Azure Service](http://bit.ly/jcloudslidedeck)
 
-### Fun Challenge :point_down: :
+### Fun Challenge👇:
 We have a fun challenge for you! 🤓
 Upskill yourself, complete any of [these learning paths](https://konf.me/jcloud-challenge), tweet your MS Learn profile with #jCloudDay and win super cool Azure Hero badges! 🤩
 
-### Learning Resoruces :closed_book: :
+### Learning Resoruces📙:
 Are you waiting to take the first step to learn Java? 🤓Or wanting to scale your solutions? We have you covered! A specially curated list of [learning paths](https://konf.me/jcloud-content-java) for all your Java related queries!
 
-### Newsletter :newspaper: :
+### Newsletter 🗞️:
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://konf.me/newsletter)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
-### :arrow_right: Check out our [website](https://jcloud.konfhub.com/?utm_source=KonfHub&utm_medium=Link&utm_campaign=JCloud%20Day) for more details on jCloudDay.
+### ➡️ Check out our [website](https://jcloud.konfhub.com/?utm_source=KonfHub&utm_medium=Link&utm_campaign=JCloud%20Day) for more details on jCloudDay.
